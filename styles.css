@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 nav{
+	display:flex;
 	padding: 10px;
+	background-color: #D3D3D3;
 }
 
 nav li{
