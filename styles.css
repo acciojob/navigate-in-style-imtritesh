@@ -1,8 +1,12 @@
 /*  your css code here. If applicable */
-nav{
-	display:flex;
+.container{
 	padding: 10px;
 	background-color: #D3D3D3;
+/* 	background-color:rgb(211, 211, 211); */
+}
+
+ul{
+	display:flex;
 }
 
 nav li{
